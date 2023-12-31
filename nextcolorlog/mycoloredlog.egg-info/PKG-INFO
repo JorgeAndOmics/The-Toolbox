@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mycoloredlog
+Version: 0.1
+Summary: A custom logging package with all the power of coloredlogs and verboselogs.
+Author: Jorge González García
+Author-email: jorgegonzalezvet@gmail.com
+Keywords: logging coloredlogs verboselogs custom simple

@@ -1,0 +1,8 @@
+setup.py
+mycoloredlog.egg-info/PKG-INFO
+mycoloredlog.egg-info/SOURCES.txt
+mycoloredlog.egg-info/dependency_links.txt
+mycoloredlog.egg-info/requires.txt
+mycoloredlog.egg-info/top_level.txt
+nextcolorlog/__init__.py
+nextcolorlog/nextcolorlog.py
